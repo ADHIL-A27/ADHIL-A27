@@ -43,6 +43,6 @@ I’m Mohammed Adhil, a **Research and Development Engineer** with a strong pass
 
 ## 📫 Contact:
 - **Email**: [youremail@example.com](adilu2263@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/mohammed-adhil-3945b521a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)
+- **LinkedIn**: [https://www.linkedin.com/in/mohammed-adhil-3945b521a](#)
 
 
