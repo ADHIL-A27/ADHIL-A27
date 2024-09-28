@@ -42,7 +42,7 @@ I’m Mohammed Adhil, a **Research and Development Engineer** with a strong pass
 ![](https://komarev.com/ghpvc/?username=ADHIL-A27&color=blue)
 
 ## 📫 Contact:
-- **Email**: [youremail@example.com](adilu2263@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/mohammed-adhil-3945b521a](#)
+- **Email**: [adilu2263@gmail.com](adilu2263@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/mohammed-adhil-3945b521a](https://www.linkedin.com/in/mohammed-adhil-3945b521a)
 
 
