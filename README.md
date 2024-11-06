@@ -4,11 +4,11 @@
 I’m Mohammed Adhil, a **Research and Development Engineer** with a strong passion for **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My work focuses on leveraging deep learning and AI-driven solutions to solve real-world problems and push the boundaries of intelligent systems.
 
 - 🔭 Currently, I’m conducting research on **neural networks**, **computer vision**, and **natural language processing** (NLP).
-- 💻 I have hands-on experience with Django, Django REST Framework, and Streamlit for building scalable web applications and APIs.
+- 💻 I have hands-on experience with Django, Django REST Framework,FastApi, and Streamlit for building scalable web applications and APIs.
 - 🌱 Continuously exploring new technologies, algorithms, and frameworks in the field of **AI**, **ML**, **NLP**, and **deep learning**.
 - 💬 Feel free to reach out to me about **AI system design**, **model optimization**, and **cutting-edge research** in machine learning.
 - 📚 Always eager to learn and collaborate on challenging R&D projects that have the potential to impact industries.
-- 🎓 Academic Background: Master’s/PhD (you can customize based on your actual background).
+- 🎓 Academic Background: Bachelor computer Application specialisation in Artificial Intelligence.
 
 ## 🔬 Research Focus:
 - **Neural Network Architectures**: Specialized in convolutional neural networks (CNNs), recurrent networks (RNNs), transformers, and large language models (LLMs) like GPT.
