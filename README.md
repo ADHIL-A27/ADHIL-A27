@@ -1,17 +1,17 @@
 # Hey, I'm Mohammed Adhil! 👋
 
 ## 👨‍🔬 About Me:
-I’m Mohammed Adhil, a **Research and Development Engineer** with a strong passion for **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My work focuses on leveraging deep learning and AI-driven solutions to solve real-world problems and push the boundaries of intelligent systems.
+I’m Mohammed Adhil, a **Research and Development Engineer** with a strong passion for **Artificial Intelligence (AI)** and realtime processing **API & Software Develepment**.My expertise lies in building scalable systems that integrate cutting-edge technologies like AI and LLMs for practical applications.
 
 - 🔭 Currently, I’m conducting research on **neural networks**, **computer vision**, and **natural language processing** (NLP).
 - 💻 I have hands-on experience with Django, Django REST Framework,FastApi, and Streamlit for building scalable web applications and APIs.
 - 🌱 Continuously exploring new technologies, algorithms, and frameworks in the field of **AI**, **ML**, **NLP**, and **deep learning**.
-- 💬 Feel free to reach out to me about **AI system design**, **model optimization**, and **cutting-edge research** in machine learning.
+- 💬 Feel free to reach out to me about software design, API architecture, real-time data processing, and LLM integration.
 - 📚 Always eager to learn and collaborate on challenging R&D projects that have the potential to impact industries.
 - 🎓 Academic Background: Bachelor computer Application specialisation in Artificial Intelligence.
 
 ## 🔬 Research Focus:
-- **Neural Network Architectures**: Specialized in convolutional neural networks (CNNs), recurrent networks (RNNs), transformers, and large language models (LLMs) like GPT.
+- **Real-Time Processing**: Building solutions for real-time data handling and processing.
 - **Computer Vision**: Image processing, object detection, and classification.
 - **Natural Language Processing**: Language models, question-answering systems, and text generation.
 - **Reinforcement Learning**: Policy optimization and agent-based simulations.
@@ -36,6 +36,12 @@ I’m Mohammed Adhil, a **Research and Development Engineer** with a strong pass
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF9E0F?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+
 
 
 
